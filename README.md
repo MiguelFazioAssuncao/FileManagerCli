@@ -7,7 +7,7 @@ CLI simples para criar e escrever arquivos de texto, com suporte a várias exten
 ## Como compilar
 ### 1. Compilando com Maven
 
-Se o projeto usa Maven, compile com:
+Compile com:
 
 ```
 mvn clean package
